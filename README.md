@@ -1,4 +1,4 @@
-# Front-end Teste Effecti
+# Front-end
 
 Este é o front-end do projeto desenvolvido como parte do teste técnico para a Effecti. A aplicação foi construída com **Vue.js 3** e consome dados de uma API construída com **Spring Boot**.
 
